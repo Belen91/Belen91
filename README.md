@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=8A63F7&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Bel%C3%A9n!;Full+Stack+Developer+in+Progress;Learning+React+and+Python;Building+Real+Projects+Step+by+Step" />
 </p>
 
-# 👋 Hi, I'm Belén! 👩‍💻
-
 Welcome to my GitHub profile!  
 I’m learning full-stack development one commit, one bug, and one existential crisis at a time.
 
