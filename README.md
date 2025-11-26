@@ -3,7 +3,7 @@
 </p>
 
 Welcome to my GitHub profile!  
-I’m learning full-stack development one commit, one bug, and one existential crisis at a time.
+I'm Belén and I’m learning full-stack development one commit, one bug, and one existential crisis at a time.
 
 ---
 
